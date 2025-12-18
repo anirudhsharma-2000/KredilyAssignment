@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "730086013914",
+    "project_id": "kredily-89d49",
+    "storage_bucket": "kredily-89d49.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:730086013914:android:464703066e1c892b3f9ee3",
+        "android_client_info": {
+          "package_name": "com.anirudh.assignment.kredilyassignment"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1JLOn5jJqEB-oIqk5p-K-4r2Laz2lLgE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
